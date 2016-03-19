@@ -1,3 +1,10 @@
+ubiquity-slideshow-ubuntu (108.1~budgieremix1) xenial; urgency=medium
+
+  * Replace icons in budgie-remix slideshow with Moka icons
+  * Replace Ubuntu GNOME wording in budgie-remix slideshow
+
+ -- HEXcube <hexcubed@gmail.com>  Sat, 19 Mar 2016 22:08:14 +0530
+
 ubiquity-slideshow-ubuntu (108.1) xenial; urgency=medium
 
   * budgie-remix slideshow
