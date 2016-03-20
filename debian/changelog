@@ -1,4 +1,4 @@
-ubiquity-slideshow-ubuntu (108.1~budgieremix1) xenial; urgency=medium
+ubiquity-slideshow-ubuntu (108.2) xenial; urgency=medium
 
   * Replace icons in budgie-remix slideshow with Moka icons
   * Replace Ubuntu GNOME wording in budgie-remix slideshow

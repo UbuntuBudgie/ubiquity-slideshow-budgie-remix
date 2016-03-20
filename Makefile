@@ -1,17 +1,6 @@
 # Makefile for ubiquity-slideshow-ubuntu
 
 SLIDESHOWS = \
-	ubuntu \
-	kubuntu \
-	xubuntu \
-	lubuntu \
-	edubuntu \
-	ubuntustudio \
-	ubuntu-gnome \
-	ubuntukylin \
-	ubuntu-mate \
-	oem-config-ubuntu \
-	oem-config-ubuntu-mate \
 	budgie-remix
 
 SOURCE ?= .
