@@ -1,3 +1,15 @@
+ubiquity-slideshow-ubuntu (108.3) xenial; urgency=medium
+
+  [ HEXcube ]
+  * Modify slideshow text
+    - Add more links to 'Help and support' slide
+    - Revamp Welcome and Desktop slides
+
+  [ David Mohammed ]
+  * Provide screenshots for Budgie Desktop and Firefox
+
+ -- HEXcube <hexcube@HEXlap>  Mon, 21 Mar 2016 16:53:49 +0530
+
 ubiquity-slideshow-ubuntu (108.2) xenial; urgency=medium
 
   * Replace icons in budgie-remix slideshow with Moka icons
