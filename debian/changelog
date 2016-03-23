@@ -1,3 +1,10 @@
+ubiquity-slideshow-ubuntu (108.4) xenial; urgency=medium
+
+  * Change stylization to budgie-remix for consistency in branding
+    - Remove reddit link from gethelp.html slide to reduce clutter
+
+ -- HEXcube <hexcube@HEXlap>  Wed, 23 Mar 2016 14:00:40 +0530
+
 ubiquity-slideshow-ubuntu (108.3) xenial; urgency=medium
 
   [ HEXcube ]
