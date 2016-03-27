@@ -1,9 +1,19 @@
+ubiquity-slideshow-ubuntu (108.5) xenial; urgency=medium
+
+  * Replace screenshots of Budgie, Firefox and LibreOffice
+  * Replace Gnumeric icon in office.html slide with LibreOffice icon
+  * Replace GNOME Music icon in media.html slide with Rhythmbox icon
+  * Rearrange featured app icons in office.html, media.html and photos.html slides so that installed apps are listed first
+  * Remove goa.html slide
+
+ -- HEXcube <hexcubed@gmail.com>  Sun, 27 Mar 2016 20:35:35 +0530
+
 ubiquity-slideshow-ubuntu (108.4) xenial; urgency=medium
 
   * Change stylization to budgie-remix for consistency in branding
     - Remove reddit link from gethelp.html slide to reduce clutter
 
- -- HEXcube <hexcube@HEXlap>  Wed, 23 Mar 2016 14:00:40 +0530
+ -- HEXcube <hexcubed@gmail.com>  Wed, 23 Mar 2016 14:00:40 +0530
 
 ubiquity-slideshow-ubuntu (108.3) xenial; urgency=medium
 
@@ -15,7 +25,7 @@ ubiquity-slideshow-ubuntu (108.3) xenial; urgency=medium
   [ David Mohammed ]
   * Provide screenshots for Budgie Desktop and Firefox
 
- -- HEXcube <hexcube@HEXlap>  Mon, 21 Mar 2016 16:53:49 +0530
+ -- HEXcube <hexcubed@gmail.com>  Mon, 21 Mar 2016 16:53:49 +0530
 
 ubiquity-slideshow-ubuntu (108.2) xenial; urgency=medium
 
