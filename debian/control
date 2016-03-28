@@ -9,7 +9,7 @@ Standards-Version: 3.9.6
 Homepage: https://launchpad.net/ubiquity-slideshow-ubuntu
 
 Package: ubiquity-slideshow-budgie-remix
-Architecture: all
+Architecture: any
 Provides: ubiquity-slideshow
 Conflicts: ubiquity-slideshow
 Replaces: ubiquity-slideshow
