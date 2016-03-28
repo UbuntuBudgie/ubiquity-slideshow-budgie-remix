@@ -1,3 +1,11 @@
+ubiquity-slideshow-ubuntu (110.2) xenial; urgency=medium
+
+  * Add new slide featuring XfDashboard
+  * Remove accessibility.html slide
+  * Fix the strange opaque corners in screenshots of LibreOffice, Firefox and GNOME Software
+
+ -- HEXcube <hexcubed@gmail.com>  Mon, 28 Mar 2016 16:27:42 +0530
+
 ubiquity-slideshow-ubuntu (110.1) xenial; urgency=medium
 
   * bump version
