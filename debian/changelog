@@ -1,3 +1,12 @@
+ubiquity-slideshow-ubuntu (110.3) xenial; urgency=medium
+
+  * Update screenshot to show budgie-remix Final Beta
+  * Increase font size of slidetitles
+  * Change color and shadow style of slide headers
+  * Replace <br> with <br /> for XHTML compatibility
+
+ -- HEXcube <hexcubed@gmail.com>  Sat, 09 Apr 2016 23:33:33 +0530
+
 ubiquity-slideshow-ubuntu (110.2) xenial; urgency=medium
 
   * Add new slide featuring XfDashboard
