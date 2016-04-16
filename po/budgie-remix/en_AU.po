@@ -1,4 +1,4 @@
-# English (United Kingdom) translation for ubiquity-slideshow-ubuntu
+# English (Australia) translation for ubiquity-slideshow-ubuntu
 # Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
 # This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2016-03-24 23:23+0200\n"
-"PO-Revision-Date: 2016-03-11 18:05+0000\n"
-"Last-Translator: Andi Chandler <Unknown>\n"
-"Language-Team: English (United Kingdom) <en_GB@li.org>\n"
+"PO-Revision-Date: 2015-04-14 11:32+0000\n"
+"Last-Translator: Joel Addison <jaddi27@gmail.com>\n"
+"Language-Team: English (Australia) <en_AU@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -48,9 +48,6 @@ msgid ""
 "browse the web. Easy browsing, high performance, advanced security, powerful "
 "personalization and the cutting edge, all that is between your hands."
 msgstr ""
-"With Firefox already installed, Ubuntu GNOME has everything you need to "
-"browse the web. Easy browsing, high performance, advanced security, powerful "
-"personalisation and the cutting edge, all that is between your hands."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/desktop.html:2
@@ -88,7 +85,7 @@ msgstr "Check <strong>your notifications</strong> easily"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-gnome/slides/desktop.html:24
 msgid "Enhance your work flow with <strong>dynamic workspaces</strong>"
-msgstr "Enhance your work flow with <strong>dynamic workspaces</strong>"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:2
@@ -98,7 +95,7 @@ msgstr "Help and support"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:8
 msgid "Thanks for choosing and installing Ubuntu GNOME"
-msgstr "Thanks for choosing and installing Ubuntu GNOME"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:9
@@ -106,8 +103,6 @@ msgid ""
 "Learn more about Ubuntu GNOME in our Wiki Area <a href=\"https://wiki.ubuntu."
 "com/UbuntuGNOME\">tiny.cc/uGWiki</a>."
 msgstr ""
-"Learn more about Ubuntu GNOME in our Wiki Area <a href=\"https://wiki.ubuntu."
-"com/UbuntuGNOME\">tiny.cc/uGWiki</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:10
@@ -115,8 +110,6 @@ msgid ""
 "For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
 "ContactUs\">tiny.cc/uGContactUs</a>."
 msgstr ""
-"For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
-"ContactUs\">tiny.cc/uGContactUs</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:11
@@ -165,7 +158,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/office.html:2
 msgid "Your office on your machine"
-msgstr "Your office on your machine"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/office.html:8
@@ -174,9 +167,6 @@ msgid ""
 "more. LibreOffice is a comprehensive, professional-quality productivity "
 "suite shipped by default. Make your day-to-day tasks more easy and fun."
 msgstr ""
-"Create professional documents, spreadsheets, presentations, drawings and "
-"more. LibreOffice is a comprehensive, professional-quality productivity "
-"suite shipped by default. Make your day-to-day tasks more easy and fun."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/photos.html:2
@@ -191,10 +181,6 @@ msgid ""
 "pictures. And you can share your favorite snaps on all popular photo sites "
 "and social networks."
 msgstr ""
-"Tired of finding the right application to organise your photos? With GNOME "
-"Photos, you can quickly and easily import, organise, edit and view your "
-"pictures. And you can share your favourite snaps on all popular photo sites "
-"and social networks."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/software.html:2
@@ -204,7 +190,7 @@ msgstr "Find even more software"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/software.html:8
 msgid "<strong>Say Goodbye to searching the web for a software.</strong>"
-msgstr "<strong>Say Goodbye to searching the web for a software.</strong>"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/software.html:9
@@ -214,15 +200,11 @@ msgid ""
 "thousands of free and commercial applications. Installing anything is just a "
 "couple of clicks away from you."
 msgstr ""
-"With GNOME Software you can easily find and install software. Your ratings "
-"and reviews are used to rank software by popularity. You have access to "
-"thousands of free and commercial applications. Installing anything is just a "
-"couple of clicks away from you."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/welcome.html:2
 msgid "Welcome to Ubuntu GNOME 16.04"
-msgstr "Welcome to Ubuntu GNOME 16.04"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/welcome.html:8
@@ -230,8 +212,6 @@ msgid ""
 "The official Ubuntu flavor featuring the GNOME Desktop Environment, aiming "
 "to provide a pure GNOME desktop experience built on top of Ubuntu."
 msgstr ""
-"The official Ubuntu flavour featuring the GNOME Desktop Environment, aiming "
-"to provide a pure GNOME desktop experience built on top of Ubuntu."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/welcome.html:9
@@ -239,19 +219,3 @@ msgid ""
 "The latest version of Ubuntu GNOME is the best choice for those looking for "
 "a fast, beautiful, simple, usable and stable Operating System."
 msgstr ""
-"The latest version of Ubuntu GNOME is the best choice for those looking for "
-"a fast, beautiful, simple, usable and stable Operating System."
-
-#~ msgid ""
-#~ "With Ubuntu Software Center you can easily find and install software. "
-#~ "Your ratings and reviews are used to rank software by popularity. You "
-#~ "have access to thousands of free and commercial applications. Installing "
-#~ "anything is just a couple of clicks away from you."
-#~ msgstr ""
-#~ "With Ubuntu Software Centre you can easily find and install software. "
-#~ "Your ratings and reviews are used to rank software by popularity. You "
-#~ "have access to thousands of free and commercial applications. Installing "
-#~ "anything is just a couple of clicks away from you."
-
-#~ msgid "Welcome to Ubuntu GNOME 15.10"
-#~ msgstr "Welcome to Ubuntu GNOME 15.10"
