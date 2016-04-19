@@ -1,3 +1,11 @@
+ubiquity-slideshow-ubuntu (110.6) xenial; urgency=medium
+
+  * Update screenshot to show budgie-remix Release Candidate
+  * Add material shadow to slide header
+  * Remove no longer used access, languages and themes icons
+
+ -- HEXcube <hexcubed@gmail.com>  Wed, 20 Apr 2016 01:26:13 +0530
+
 ubiquity-slideshow-ubuntu (110.5) xenial; urgency=medium
 
   * readd translations - should fix crashes in ubiquity
