@@ -1,4 +1,14 @@
-ubiquity-slideshow-ubuntu (110.6) xenial; urgency=medium
+ubiquity-slideshow-budgie-remix (113.1) xenial; urgency=medium
+
+  * Rebase on the latest build 113 of upstream slideshow
+  * Finish rebrand of package to budgie-remix
+  * Update copyright and AUTHORS files
+  * Remove translations until they're fixed later
+  * Remove unused image-source contents
+
+ -- HEXcube <hexcubed@gmail.com>  Fri, 22 Apr 2016 21:43:06 +0530
+
+ubiquity-slideshow-budgie-remix (110.6) xenial; urgency=medium
 
   * Update screenshot to show budgie-remix Release Candidate
   * Add material shadow to slide header
@@ -6,21 +16,21 @@ ubiquity-slideshow-ubuntu (110.6) xenial; urgency=medium
 
  -- HEXcube <hexcubed@gmail.com>  Wed, 20 Apr 2016 01:26:13 +0530
 
-ubiquity-slideshow-ubuntu (110.5) xenial; urgency=medium
+ubiquity-slideshow-budgie-remix (110.5) xenial; urgency=medium
 
   * readd translations - should fix crashes in ubiquity
     when choosing other languages other than english
 
  -- fossfreedom <foss.freedom@gmail.com>  Sat, 16 Apr 2016 22:07:32 +0100
 
-ubiquity-slideshow-ubuntu (110.4) xenial; urgency=medium
+ubiquity-slideshow-budgie-remix (110.4) xenial; urgency=medium
 
   * Remove dashboard.html slide coz XfDashboard isn't pre-installed anymore
   * Prefix numbers to slide files to reflect their order
 
  -- HEXcube <hexcubed@gmail.com>  Wed, 13 Apr 2016 02:38:22 +0530
 
-ubiquity-slideshow-ubuntu (110.3) xenial; urgency=medium
+ubiquity-slideshow-budgie-remix (110.3) xenial; urgency=medium
 
   * Update screenshot to show budgie-remix Final Beta
   * Increase font size of slidetitles
@@ -29,7 +39,7 @@ ubiquity-slideshow-ubuntu (110.3) xenial; urgency=medium
 
  -- HEXcube <hexcubed@gmail.com>  Sat, 09 Apr 2016 23:33:33 +0530
 
-ubiquity-slideshow-ubuntu (110.2) xenial; urgency=medium
+ubiquity-slideshow-budgie-remix (110.2) xenial; urgency=medium
 
   * Add new slide featuring XfDashboard
   * Remove accessibility.html slide
@@ -37,37 +47,32 @@ ubiquity-slideshow-ubuntu (110.2) xenial; urgency=medium
 
  -- HEXcube <hexcubed@gmail.com>  Mon, 28 Mar 2016 16:27:42 +0530
 
-ubiquity-slideshow-ubuntu (110.1) xenial; urgency=medium
+ubiquity-slideshow-budgie-remix (110.1) xenial; urgency=medium
 
-  * bump version
+  * bump version to match the upstream ubiquity-slideshow-ubuntu package
+  * Revert architecture to 'all' to declare architecture independence
 
  -- fossfreedom <foss.freedom@gmail.com>  Mon, 28 Mar 2016 10:51:42 +0100
 
-ubiquity-slideshow-ubuntu (108.9) xenial; urgency=medium
+ubiquity-slideshow-budgie-remix (108.8) xenial; urgency=medium
 
   * any architecture so can install on 32bit
 
  -- fossfreedom <foss.freedom@gmail.com>  Mon, 28 Mar 2016 10:39:21 +0100
 
-ubiquity-slideshow-ubuntu (108.8) xenial; urgency=medium
+ubiquity-slideshow-budgie-remix (108.7) xenial; urgency=medium
 
   * rebuild with corrected desktop.html
 
  -- fossfreedom <foss.freedom@gmail.com>  Sun, 27 Mar 2016 20:49:30 +0100
 
-ubiquity-slideshow-ubuntu (108.7) xenial; urgency=medium
-
-  * rebuild
-
- -- fossfreedom <foss.freedom@gmail.com>  Sun, 27 Mar 2016 20:34:43 +0100
-
-ubiquity-slideshow-ubuntu (108.6) xenial; urgency=medium
+ubiquity-slideshow-budgie-remix (108.6) xenial; urgency=medium
 
   * Replace screenshots for media.html, photos.html and software.html slides
 
  -- HEXcube <hexcubed@gmail.com>  Mon, 28 Mar 2016 00:13:02 +0530
 
-ubiquity-slideshow-ubuntu (108.5) xenial; urgency=medium
+ubiquity-slideshow-budgie-remix (108.5) xenial; urgency=medium
 
   * Replace screenshots of Budgie, Firefox and LibreOffice
   * Replace Gnumeric icon in office.html slide with LibreOffice icon
@@ -77,14 +82,14 @@ ubiquity-slideshow-ubuntu (108.5) xenial; urgency=medium
 
  -- HEXcube <hexcubed@gmail.com>  Sun, 27 Mar 2016 20:35:35 +0530
 
-ubiquity-slideshow-ubuntu (108.4) xenial; urgency=medium
+ubiquity-slideshow-budgie-remix (108.4) xenial; urgency=medium
 
   * Change stylization to budgie-remix for consistency in branding
-    - Remove reddit link from gethelp.html slide to reduce clutter
+  * Remove reddit link from gethelp.html slide to reduce clutter
 
  -- HEXcube <hexcubed@gmail.com>  Wed, 23 Mar 2016 14:00:40 +0530
 
-ubiquity-slideshow-ubuntu (108.3) xenial; urgency=medium
+ubiquity-slideshow-budgie-remix (108.3) xenial; urgency=medium
 
   [ HEXcube ]
   * Modify slideshow text
@@ -96,32 +101,17 @@ ubiquity-slideshow-ubuntu (108.3) xenial; urgency=medium
 
  -- HEXcube <hexcubed@gmail.com>  Mon, 21 Mar 2016 16:53:49 +0530
 
-ubiquity-slideshow-ubuntu (108.2) xenial; urgency=medium
+ubiquity-slideshow-budgie-remix (108.2) xenial; urgency=medium
 
   * Replace icons in budgie-remix slideshow with Moka icons
   * Replace Ubuntu GNOME wording in budgie-remix slideshow
 
  -- HEXcube <hexcubed@gmail.com>  Sat, 19 Mar 2016 22:08:14 +0530
 
-ubiquity-slideshow-ubuntu (108.1) xenial; urgency=medium
+ubiquity-slideshow-budgie-remix (108.1) xenial; urgency=medium
 
-  * budgie-remix slideshow based on build 108 below
-  * strip all other flavours
+  * forked from Ubuntu GNOME slideshow in ubiquity-slideshow-ubuntu build 108
+  * strip slideshows of all other flavours
 
  -- fossfreedom <foss.freedom@gmail.com>  Wed, 16 Mar 2016 19:39:12 +0000
-
-ubiquity-slideshow-ubuntu (108) xenial; urgency=medium
-
-  [ Pasi Lallinaho ]
-  * Update the Xubuntu slideshow
-  * Update translation templates
-  * Bump version numbers up to 16.04 across the board
-
-  [ Martin Wimpress ]
-  * Update the Ubuntu MATE slideshow
-
-  [ Tim Lunn ]
-  * Update the Ubuntu GNOME slideshow
-
- -- Mathieu Trudel-Lapierre <mathieu-tl@ubuntu.com>  Thu, 10 Mar 2016 12:48:07 -0500
 

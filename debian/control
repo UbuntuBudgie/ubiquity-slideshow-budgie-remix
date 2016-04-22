@@ -1,12 +1,12 @@
-Source: ubiquity-slideshow-ubuntu
+Source: ubiquity-slideshow-budgie-remix
 Section: x11
 Priority: optional
-Maintainer: Ubiquity Slideshow Team <ubiquity-slideshow@lists.launchpad.net>
+Maintainer: HEXcube <hexcubed@gmail.com>
 Build-Depends: cdbs, debhelper (>= 5)
 Build-Depends-Indep: po4a, python-utidylib, python
-Vcs-Bzr: https://code.launchpad.net/~ubiquity-slideshow/ubiquity-slideshow-ubuntu/html
+Vcs-Git: git://github.com/budgie-remix/ubiquity-slideshow-budgie-remix.git
 Standards-Version: 3.9.6
-Homepage: https://launchpad.net/ubiquity-slideshow-ubuntu
+Homepage: https://github.com/budgie-remix/ubiquity-slideshow-budgie-remix
 
 Package: ubiquity-slideshow-budgie-remix
 Architecture: all

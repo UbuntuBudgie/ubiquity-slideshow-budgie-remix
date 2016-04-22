@@ -1,16 +1,25 @@
-This file lists contributors to ubiquity-slideshow-ubuntu
+This file lists contributors to ubiquity-slideshow-budgie-remix and
+upstream source ubiquity-slideshow-ubuntu
 
-<http://launchpad.net/ubiquity-slideshow-ubuntu>
+<https://github.com/budgie-remix/ubiquity-slideshow-budgie-remix>
 
 -----
 
 More detailed information about contributions is available in our version
-control history at <http://code.launchpad.net/ubiquity-slideshow-ubuntu>
+control history at
+<https://github.com/budgie-remix/ubiquity-slideshow-budgie-remix/graphs/contributors>
+
+For the list of upstream contributors, see
+<http://code.launchpad.net/ubiquity-slideshow-ubuntu>
 
 Feel free to add yourself as you see fit!
 
 -----
 
+HEXcube <https://launchpad.net/~hexcube>
+David "fossfreedom" Mohammed <https://launchpad.net/~fossfreedom>
+
+Upstream Contributors:
 Dylan McCall <http://launchpad.net/~dylanmccall>
 Andrew Higginson <http://launchpad.net/~rugby471>
 Anabelle Handdoek <http://launchpad.net/~anabelle>

@@ -1,5 +1,7 @@
-This is packaged by the Ubiquity Slideshow Team
-<ubiquity-slideshow@lists.launchpad.net>
+This is packaged by the budgie-remix Team
+<https://budgie-remix.org>
+
+Copyright (C) 2009 budgie-remix Team
 
 Copyright (C) 2009 The Ubiquity Slideshow
 Team <ubiquity-slideshow@lists.launchpad.net>
@@ -12,7 +14,7 @@ The source code was obtained from:
 
 Files original to this project, except where stated otherwise, are
 licensed under the Creative Commons Creative Commons Attribution-Share
-Alike 3.0 Unported License.
+Alike 4.0 International License.
 
 --
 
@@ -54,30 +56,11 @@ the BSD licence.
 
 This project ships with many images which are from outside sources.
 This is a list of those images with their respective license details.
-Note that empty padding is often added to the images.
-Work whose content has been modified is marked with an asterisk (*)
 
-
-In slideshows/ubuntu/slides/icons:
-
-	accessibility.png, evolution.png, openoffice.png, media.png, 
-	personalize.png
-		From the Humanity Icon Set <http://launchpad.net/humanity>
-		GNU General Public License Version 2 or later (GPL-2)
-
-	empathy.png
-		From the Empathy project <http://live.gnome.org/Empathy>
-		GNU General Public License Version 2 or later (GPL-2)
-
-	shotwell.png
-		From the Shotwell project <http://yorba.org/shotwell/>
-		GNU Lesser General Public License Version 2.1 (LGPL-2.1).
-
-	softwarecenter.png
-		From the Software Center project. <launchpad.net/software-center>
-		Copyright: © 2009 Canonical,
-		           © 2006 Sebastian Heinlein <glatzor@ubuntu.com>
-		GNU General Public License Version 2 or later (GPL-2)
+./slideshows/budgie-remix/slides/icons/
+Copyright 2013-2015 Sam "snwh" Hewitt
+Licensed under CC BY-SA 4.0
+Web site: https://snwh.org/moka/
 
 -----
 
