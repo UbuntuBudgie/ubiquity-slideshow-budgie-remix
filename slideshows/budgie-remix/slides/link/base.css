@@ -32,7 +32,7 @@ html, body {
 	font-size:13px;
 	line-height:1.4em;
 
-	color:#FFFFFF;
+	color:#333333;
 
 	/* no reason to expose this extra stuff to the user */
 	-webkit-user-select:none;
@@ -72,8 +72,8 @@ strong {
 	height:100%;
 	overflow:hidden;
 	/* move this to #main if we want the background image to move with slides */
-	background-image:url('background.jpg');
-	background-position: bottom;
+	/*background-image:url('background.jpg');*/
+	/*background-position: bottom;*/
 }
 #slideshow > div {
 	position:absolute;
@@ -147,6 +147,9 @@ strong {
 	left:0px;
 	right:0px;
 	min-height:370px; /* 442px (from #slideshow) - 70px - 2px */
+	/* move this to #slideshow if we don't want the background image to move with slides */
+	/*background-image:url('background.png');*/
+    background-color:#F9F9F9;
 }
 
 .main.big {
