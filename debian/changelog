@@ -1,3 +1,13 @@
+ubiquity-slideshow-ubuntu (113.3) xenial; urgency=medium
+
+  * Add budgie-remix logo to welcome slide
+  * White background for all slides except start and end
+  * Improve shadow for slide header
+  * Add drop shadow and rounded edges for desktop screenshot
+  * Better render of background image for start and end slides
+
+ -- HEXcube <hexcubed@gmail.com>  Thu, 28 Apr 2016 01:25:59 +0530
+
 ubiquity-slideshow-ubuntu (113.2) xenial; urgency=medium
 
   * fix missing po translation that stopped the build
