@@ -1,3 +1,12 @@
+ubiquity-slideshow-ubuntu (113.4) xenial; urgency=medium
+
+  * Change position of budgie-remix logo
+  * Adjust welcome slide background for better placement of text
+  * Change arrow colors for better visibility
+  * Pick slide header's color from Arc theme's palette
+
+ -- HEXcube <hexcubed@gmail.com>  Thu, 28 Apr 2016 23:50:17 +0530
+
 ubiquity-slideshow-ubuntu (113.3) xenial; urgency=medium
 
   * Add budgie-remix logo to welcome slide
